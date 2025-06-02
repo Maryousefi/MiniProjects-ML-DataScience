@@ -1,3 +1,3 @@
-# DS final answers 
-each part is from a diffrent topic, check the questions from the site.
-dont forget to check the zip files
+## DataScience mini projects
+ - This repository is currently under development and subject to ongoing fixes. Functionality may be incomplete or unstable.
+
